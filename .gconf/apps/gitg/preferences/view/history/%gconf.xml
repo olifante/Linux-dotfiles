@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="topo-order" mtime="1285611109" type="bool" value="false"/>
+	<entry name="show-virtual-unstaged" mtime="1285611109" type="bool" value="true"/>
+	<entry name="show-virtual-staged" mtime="1285611109" type="bool" value="true"/>
+	<entry name="show-virtual-stash" mtime="1285611109" type="bool" value="true"/>
+	<entry name="collapse-inactive-lanes" mtime="1285611109" type="int" value="2"/>
+	<entry name="collapse-inactive-lanes-active" mtime="1285611109" type="bool" value="true"/>
+	<entry name="search-filter" mtime="1285611109" type="bool" value="false"/>
+</gconf>
