@@ -4,29 +4,30 @@
 # exclude patterns (uncomment them if you want to use them):
 # *.[oa]
 # *~
-Desktop/
-Downloads/
 .bash_history
 .cache/
-.viminfo
+.config/cairo-dock/
 .config/chromium/
+Desktop/
+Downloads/
+.gconf/apps/docky-2/
+.gconfd/saved_state
+.gtk-bookmarks
 .htoprc
 .ICEauthority
 .IdeaIC90/config/
-.gconf/apps/docky-2/
-.gconfd/saved_state
 .IdeaIC90/system/
-.ipython/history
+.IdeaIC90/system/
 .ipython/db/
-.IdeaIC90/system/
+.ipython/history
 .lesshst
 .local/share/docky/
 .m2/repository/
+.macromedia/Flash_Player/
+.pki/nssdb/
 .PyCharm10/system/
 .recently-used.xbel
+.ssh/
 .ssh/id_rsa
+.viminfo
 .Xauthority
-.config/cairo-dock/
-.pki/nssdb/
-.macromedia/Flash_Player/
-.gtk-bookmarks

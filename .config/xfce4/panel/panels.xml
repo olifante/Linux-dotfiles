@@ -22,8 +22,6 @@
 			<item name="launcher" id="9"/>
 			<item name="launcher" id="10"/>
 			<item name="tasklist" id="3"/>
-			<item name="diskperf" id="12856387236"/>
-			<item name="fsguard" id="12856386565"/>
 			<item name="systray" id="4"/>
 			<item name="pager" id="2"/>
 			<item name="showdesktop" id="1"/>
