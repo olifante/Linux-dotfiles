@@ -1,0 +1,95 @@
+{
+   "checksum": "b67297fcdb1880d3fbfb648e251519b2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "12930091557500470",
+            "id": "3",
+            "name": "Google Not\u00EDcias",
+            "type": "url",
+            "url": "http://news.google.com/"
+         }, {
+            "date_added": "12930091581373668",
+            "id": "4",
+            "name": "P\u00FAblico iPhone",
+            "type": "url",
+            "url": "http://i.publico.pt/"
+         } ],
+         "date_added": "11644473600000000",
+         "date_modified": "12930095332213557",
+         "id": "1",
+         "name": "Bookmarks Bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "12930095332212312",
+               "id": "6",
+               "name": "Xorg RandR 1.2 - ThinkWiki",
+               "type": "url",
+               "url": "http://www.thinkwiki.org/wiki/Xorg_RandR_1.2"
+            }, {
+               "date_added": "12930095332212514",
+               "id": "7",
+               "name": "RandR - Wikipedia, the free encyclopedia",
+               "type": "url",
+               "url": "http://en.wikipedia.org/wiki/RandR"
+            }, {
+               "date_added": "12930095332212644",
+               "id": "8",
+               "name": "How change display resolution settings using xrandr\u00A0|\u00A0Ubuntu Geek",
+               "type": "url",
+               "url": "http://www.ubuntugeek.com/how-change-display-resolution-settings-using-xrandr.html"
+            }, {
+               "date_added": "12930095332212795",
+               "id": "9",
+               "name": "ARandR: Another XRandR GUI",
+               "type": "url",
+               "url": "http://christian.amsuess.com/tools/arandr/"
+            }, {
+               "date_added": "12930095332212913",
+               "id": "10",
+               "name": "xrandr dual head issues (Page 1) / Desktop Environments / Arch Linux Forums",
+               "type": "url",
+               "url": "https://bbs.archlinux.org/viewtopic.php?id=87641"
+            }, {
+               "date_added": "12930095332213091",
+               "id": "11",
+               "name": "xrandr and multiple monitor setup (Page 1) / Newbie Corner / Arch Linux Forums",
+               "type": "url",
+               "url": "https://bbs.archlinux.org/viewtopic.php?id=98321"
+            }, {
+               "date_added": "12930095332213252",
+               "id": "12",
+               "name": "Problem with dual monitors and xrandr (Page 1) / Multimedia and Games / Arch Linux Forums",
+               "type": "url",
+               "url": "https://bbs.archlinux.org/viewtopic.php?id=59490"
+            }, {
+               "date_added": "12930095332213416",
+               "id": "13",
+               "name": "ATI - ArchWiki",
+               "type": "url",
+               "url": "http://wiki.archlinux.org/index.php/ATI"
+            } ],
+            "date_added": "12930095332211438",
+            "date_modified": "12930095332213416",
+            "id": "5",
+            "name": "2010-09-27",
+            "type": "folder"
+         }, {
+            "date_added": "12930109504573896",
+            "id": "14",
+            "name": "AUR (en) - Packages",
+            "type": "url",
+            "url": "http://aur.archlinux.org/packages.php?setlang=en&SB=v&SO=d&O=0&PP=100"
+         } ],
+         "date_added": "11644473600000000",
+         "date_modified": "12930109504573896",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

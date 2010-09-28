@@ -1,0 +1,34 @@
+{
+   "checksum": "326e4a42b9e5102b2098b0b832fe3988",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "12930091557500470",
+            "id": "3",
+            "name": "Google Not\u00EDcias",
+            "type": "url",
+            "url": "http://news.google.com/"
+         }, {
+            "date_added": "12930091581373668",
+            "id": "4",
+            "name": "P\u00FAblico iPhone",
+            "type": "url",
+            "url": "http://i.publico.pt/"
+         } ],
+         "date_added": "11644473600000000",
+         "date_modified": "12930091581373668",
+         "id": "1",
+         "name": "Bookmarks Bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "11644473600000000",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
