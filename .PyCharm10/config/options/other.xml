@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="HttpConfigurable">
+    <option name="USE_HTTP_PROXY" value="false" />
+    <option name="PROXY_HOST" value="" />
+    <option name="PROXY_PORT" value="80" />
+    <option name="PROXY_AUTHENTICATION" value="false" />
+    <option name="PROXY_LOGIN" value="" />
+    <option name="PROXY_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_PROXY_PASSWORD" value="false" />
+  </component>
+  <component name="PluginManagerConfigurable" proportions="" version="1">
+    <option name="AVAILABLE_SORT_COLUMN" value="0" />
+    <option name="INSTALLED_SORT_COLUMN" value="1" />
+    <option name="CART_SORT_COLUMN" value="0" />
+    <option name="AVAILABLE_SORT_COLUMN_ORDER" value="1" />
+    <option name="INSTALLED_SORT_COLUMN_ORDER" value="1" />
+    <option name="CART_SORT_COLUMN_ORDER" value="1" />
+    <available>
+      <option name="myProportion" />
+    </available>
+    <installed>
+      <option name="myProportion" />
+    </installed>
+  </component>
+  <component name="UpdatesConfigurable">
+    <option name="myPluginHosts">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="myKnownUpdateChannels">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="CHECK_NEEDED" value="true" />
+    <option name="CHECK_PERIOD" value="Weekly" />
+    <option name="LAST_TIME_CHECKED" value="1285631130354" />
+  </component>
+  <component name="com.intellij.psi.impl.source.codeStyle.CodeStyleSchemesImpl">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+</application>
+

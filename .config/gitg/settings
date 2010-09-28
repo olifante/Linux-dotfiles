@@ -1,8 +1,9 @@
 
 [gitg]
 window-state=4
-window-width=1400
-window-height=999
+window-width=1280
+window-height=969
 vpaned-commit-position=450
 hpaned-commit1-position=200
 hpaned-commit2-position=200
+vpaned-main-position=324

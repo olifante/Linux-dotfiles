@@ -3,12 +3,12 @@
 <panels>
 	<panel>
 		<properties>
-			<property name="size" value="28"/>
+			<property name="size" value="32"/>
 			<property name="monitor" value="0"/>
 			<property name="screen-position" value="11"/>
 			<property name="fullwidth" value="1"/>
 			<property name="xoffset" value="0"/>
-			<property name="yoffset" value="995"/>
+			<property name="yoffset" value="991"/>
 			<property name="handlestyle" value="0"/>
 			<property name="autohide" value="0"/>
 			<property name="transparency" value="20"/>
@@ -22,6 +22,8 @@
 			<item name="launcher" id="9"/>
 			<item name="launcher" id="10"/>
 			<item name="tasklist" id="3"/>
+			<item name="diskperf" id="12856387236"/>
+			<item name="fsguard" id="12856386565"/>
 			<item name="systray" id="4"/>
 			<item name="pager" id="2"/>
 			<item name="showdesktop" id="1"/>

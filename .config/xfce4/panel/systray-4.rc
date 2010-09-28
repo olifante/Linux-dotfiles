@@ -5,4 +5,5 @@ Rows=1
 [Applications]
 task manager=false
 xfce4-power-manager=false
+docky=false
 

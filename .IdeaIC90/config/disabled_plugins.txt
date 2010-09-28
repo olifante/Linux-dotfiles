@@ -1,0 +1,5 @@
+org.jetbrains.plugins.ruby
+CodeDependency
+Inspection-JS
+Pythonid
+Scala Power Pack
