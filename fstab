@@ -1,0 +1,15 @@
+# 
+# /etc/fstab: static file system information
+#
+# <file system>        <dir>         <type>    <options>          <dump> <pass>
+devpts                 /dev/pts      devpts    defaults            0      0
+shm                    /dev/shm      tmpfs     nodev,nosuid        0      0
+
+#/dev/cdrom             /media/cd   auto    ro,user,noauto,unhide   0      0
+#/dev/dvd               /media/dvd  auto    ro,user,noauto,unhide   0      0
+#/dev/fd0               /media/fl   auto    user,noauto             0      0
+
+UUID=181eacc6-456f-4c17-9077-efa6801fd41d /boot ext2 defaults 0 1
+UUID=5c6bb9f4-d721-4b83-b083-470af411c6d7 swap swap defaults 0 0
+UUID=cbad0d93-4702-4305-a2fa-4f11166cc08a /home ext3 defaults 0 1
+UUID=eaf499ff-9fa6-463a-ae2c-b30fd0a06bc9 / ext3 defaults 0 1

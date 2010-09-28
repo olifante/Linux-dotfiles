@@ -1,0 +1,13 @@
+
+Disk /dev/sda: 60.0 GB, 60011642880 bytes
+255 heads, 63 sectors/track, 7296 cylinders, total 117210240 sectors
+Units = sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x28982898
+
+   Device Boot      Start         End      Blocks   Id  System
+/dev/sda1   *          63      208844      104391   83  Linux
+/dev/sda2          208845      738989      265072+  82  Linux swap / Solaris
+/dev/sda3          738990    16113194     7687102+  83  Linux
+/dev/sda4        16113195   117210239    50548522+  83  Linux
