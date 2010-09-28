@@ -31,3 +31,5 @@ Downloads/
 .ssh/id_rsa
 .viminfo
 .Xauthority
+.Editra/
+.config/xfce4/panel/launcher-*
